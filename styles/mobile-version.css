@@ -1,0 +1,20 @@
+@media only screen and (max-width: 500px) {
+    .container-item {
+        flex-direction: column;
+        margin-top: -150px !important;
+    }
+
+    .desktop-img {
+        display: none;
+    }
+
+    .mobile-img {
+        display: inline !important;
+    }
+
+    .right-side {
+        width: 285.83px !important;
+        border-radius: 0 0 5% 5% !important;
+        margin-top: -10px !important; 
+    }
+}
